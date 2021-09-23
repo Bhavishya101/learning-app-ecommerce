@@ -10,6 +10,6 @@
 APPLICATION_NAME="Ansible-Deployment"
 DEPLOY_GROUP="Slave-servers"
 BUCKET="bhav-cicd-devops"
-BUNDLE_PATH="ansible-playbooks.zip"
+BUNDLE_PATH="ansible-build/MyArtifact.zip"
 
 DESTINATION_PATH="/etc/ansible/codedeploy"
