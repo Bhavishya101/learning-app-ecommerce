@@ -1,1 +1,0 @@
-slave1 ansible_host=13.251.122.241 ansible_ssh_pass=ansible
